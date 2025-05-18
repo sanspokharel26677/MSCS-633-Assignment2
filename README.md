@@ -1,4 +1,4 @@
-# MSCS-633-Assignment2
+
 # QR Code Generator (Python)
 
 This is a simple Python-based QR code generator built as part of the **Advanced Artificial Intelligence (MSCS-633-A01)** course at the **University of the Cumberlands**.
@@ -11,11 +11,11 @@ This program takes a URL as input and generates a corresponding QR code image. T
 
 ## 🛠 Features
 
--  Takes user input for URL and filename
--  Generates dynamic filenames with timestamps
--  Uses `qrcode` Python library
--  Includes error handling
--  Fully commented (program, function, and line levels)
+- ✅ Takes user input for URL and filename
+- ✅ Generates dynamic filenames with timestamps
+- ✅ Uses `qrcode` Python library
+- ✅ Includes error handling
+- ✅ Fully commented (program, function, and line levels)
 
 ---
 
@@ -24,10 +24,10 @@ This program takes a URL as input and generates a corresponding QR code image. T
 1. **Install Python** (if not installed):  
    [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-2. **Clone this repository** (or download files manually):
+2. **Clone this repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/qr-code-generator.git
-   cd qr-code-generator
+   git clone https://github.com/sanspokharel26677/MSCS-633-Assignment2.git
+   cd MSCS-633-Assignment2
    ```
 
 3. **Install required libraries**:
@@ -58,7 +58,7 @@ pip install qrcode[pil]
 ## 📁 Project Structure
 
 ```
-qr-code-generator/
+MSCS-633-Assignment2/
 │
 ├── qr_generator.py         # Main Python script
 ├── requirements.txt        # Dependencies
@@ -72,7 +72,7 @@ qr-code-generator/
 
 The generated QR code will look like this:
 
-*(Insert your screenshot here in the Word document or GitHub repo)*
+https://github.com/sanspokharel26677/MSCS-633-Assignment2/blob/main/sample_output.png
 
 ---
 
